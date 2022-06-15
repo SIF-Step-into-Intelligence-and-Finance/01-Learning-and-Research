@@ -34,6 +34,18 @@ github地址（pytorch版）：https://github.com/ShusenTang/Dive-into-DL-PyTorc
 
 
 
+#### 经典的论文
+
+2017_Transformer :  https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+2018_BERT: https://arxiv.org/abs/1810.04805
+
+2016_ResNet :  https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
+
+
+
+
+
 #### 研一选课
 
 研一上：
